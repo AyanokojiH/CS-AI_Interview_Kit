@@ -9,4 +9,4 @@
 ## �‍ 题目导航
 | 题号 | 题目 | 难度 | Python | C++ | 解析 | 分类 |
 |------|------|------|--------|-----|------| ----- |
-| 0001 | [1.两数之和](Leetcode_Problems/1.Two_Sums/problem.md) | Easy | [Q1-python题解](Leetcode_Problems/1.Two_Sums/ans1-py.py) | [Q1-C++题解](Leetcode_Problems/1.Two_Sums/ans1-cpp.cpp) | [解析](Leetcode_Problems/1.Two_Sums/solution.md) | 哈希表 |
+| 0001 | [1.两数之和](1.Two_Sums/problem.md) | Easy | [Q1-python题解](1.Two_Sums/ans1-py.py) | [Q1-C++题解](/1.Two_Sums/ans1-cpp.cpp) | [解析](1.Two_Sums/solution.md) | 哈希表 |
