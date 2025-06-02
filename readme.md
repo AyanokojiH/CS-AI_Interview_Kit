@@ -1,13 +1,23 @@
-# 🚀 LeetCode 100 Days Challenge
+# 🚀 CS/AI Interview Helper
 
-**每日攻克两道LeetCode，持续100天！**  
-提供精选题目+详细解析，含C++/Python双语言实现。
+一个覆盖 **LeetCode刷题**、**八股文知识库**、**实战项目** 和 **AI模拟面试** 的一站式面试准备仓库。  
+🔥 适用于计算机科学（CS）和人工智能（AI）方向的求职者，助你高效备战技术面试！
 
-## 📂 目录结构
-...
+---
 
-## �‍ 题目导航
-| 题号 | 题目 | 难度 | Python | C++ | 解析 | 分类 |
-|------|------|------|--------|-----|------| ----- |
-| 0001 | [1.两数之和](Problem_Lists/1.Two_Sums/problem.md) | Easy | [Q1-python题解](Problem_Lists/1.Two_Sums/ans1-py.py) | [Q1-C++题解](Problem_Lists/1.Two_Sums/ans1-cpp.cpp) | [解析](Problem_Lists/1.Two_Sums/solution.md) | 哈希表 |
-| 0244 | [244.最短单词距离II](Problem_Lists/244.Shortest_Word_Distance_II/problem.md) | Medium | [Q244-python题解](Problem_Lists/244.Shortest_Word_Distance_II/ans244-py.py) | [Q1-C++题解](Problem_Lists/244.Shortest_Word_Distance_II/ans244-cpp.cpp) | [解析](Problem_Lists/244.Shortest_Word_Distance_II/solution.md) | 哈希表/滑动窗口 |
+## 📌 项目功能
+
+| 模块                | 状态              | 简介                                                                 |
+|---------------------|-------------------|----------------------------------------------------------------------|
+| [LeetCode高频200题&题解](/Problem_Lists) | [Under Construction] 🚧 | 精选200道高频题目，提供多语言代码+详细题解+相似题目推荐               |
+| [八股文知识库](/Interview-Questions) | [Under Construction] 🚧 | CS基础（OS/网络/数据库）和AI核心（ML/DL/数学）的高频面试题汇总       |
+| [实战项目集](/Projects)       | [Under Construction] 🚧 | 可写进简历的AI/CS项目，含代码+设计文档+面试话术                     |
+| [AI模拟面试](/AI-Interview)   | [Under Construction] 🚧 | 基于Moonshot API的模拟面试，生成技术/行为面试反馈报告                |
+
+---
+
+## 🛠️ 如何使用
+TBD
+
+## 🧩 项目结构
+TBD
