@@ -1,4 +1,4 @@
-、# 244. 最短单词距离II -Solution
+# 244. 最短单词距离II -Solution
 
 ## 题目描述
 
